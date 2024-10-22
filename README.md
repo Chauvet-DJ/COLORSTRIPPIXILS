@@ -2,10 +2,6 @@
 
 ## Software Versions
 
-[V1.0.2 - COLORstrip Pix ILS](https://github.com/Chauvet-DJ/COLORSTRIPPIXILS/blob/4fe62f3f7a6ff74bcb53223940407b1b58ac8c90/Firmware/V1.0.2.zip)
-- Fixed bug in the auto programs
-- Added the ability to change the direction of the flow of the auto program
-
 [V1.0.0 - COLORstrip Pix ILS](https://github.com/Chauvet-DJ/COLORSTRIPPIXILS/blob/4fe62f3f7a6ff74bcb53223940407b1b58ac8c90/Firmware/V1.0.0.zip)
 - Released initial software version
 
